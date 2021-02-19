@@ -1,12 +1,11 @@
-project: Community Buildsystem & Infrastructure Meeting
+project: Infrastructure SIG
 project_url: http://wiki.centos.org/HowTos/CommunityBuildSystem
 schedule:
-    - time:      '1400'
+    - time:      '1500'
       day:       Monday
       irc:       centos-meeting
-      frequency: weekly
-chair: Brian Stinson (bstinson), Fabian Arrotin (Arrfab), Karanbir Singh (kbsingh), Thomas Oulevey (alphacc)
+      frequency: bi-weekly
+chair: Aoife Moloney (amoloney) Brian Stinson (bstinson), Fabian Arrotin (Arrfab)
 description: >
-    The CBS/Infra meeting is for discussing and coordinating operations in the
-    Community Buildsystem. Anyone are welcome to attend and discuss client
-    tools, jobs in the buildsystem, feature requests, and anything related.
+    The Infrastructure meeting is for discussing and coordinating operations in the
+    CentOS Infrastructure. Anyone who is interested are welcome to attend and discuss anything related to the infrastructure. More about this DIG can be found here https://wiki.centos.org/SpecialInterestGroup/Infrastructure
